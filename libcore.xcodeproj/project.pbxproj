@@ -17,6 +17,7 @@
 		1DBCCF26175FE02D00245961 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		1DBCCF27175FE02D00245961 /* vector.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = vector.c; sourceTree = "<group>"; };
 		1DBCCF28175FE02D00245961 /* vector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vector.h; sourceTree = "<group>"; };
+		1DBCCF2C175FE47400245961 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +34,7 @@
 		1DBCCF15175FDFE600245961 = {
 			isa = PBXGroup;
 			children = (
+				1DBCCF2C175FE47400245961 /* .gitignore */,
 				1DBCCF25175FE00B00245961 /* libvector */,
 				1DBCCF21175FDFF600245961 /* Products */,
 			);
